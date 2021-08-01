@@ -15,7 +15,7 @@ npm install one1erp/root-require
 
 earliest in the code use:
 
-    require('root-require')();
+`require('root-require')();`
 
 
 ## Contributors
